@@ -1,8 +1,8 @@
 # Lauren-Portfolio
 
-![alt text](image.jpg)
+![Picture of Portfolio Website](./assets/images/Portfolio-Picture.JPG)
 
-[title](https://www.example.com)
+[Deployed Website](https://renbryant.github.io/Lauren-Portfolio/)
 
 User Story
 
